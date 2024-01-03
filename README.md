@@ -1,1 +1,2 @@
-This is a flower shop called FLOVER.
+#FLOVER
+A flower shop called FLOVER.
